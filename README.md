@@ -1,9 +1,15 @@
-- 👋 Hi, I’m @MrDeathPL
-- 👀 I’m interested in lua , c++
-- 🌱 I’m currently learning c++
-- 📫 How to reach me MrDeath#6384
+### Hi there, I'm MrDeathPL 👋
 
-<!---
-MrDeathPL/MrDeathPL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate developer currently on a journey to master **C#**. I'm excited to build and explore the possibilities with this language.
+
+### What I'm currently focused on:
+- 💻 Learning C# and the .NET ecosystem
+- 🚀 Working on personal projects to put my new skills to the test
+- 💡 Exploring different programming concepts and best practices
+
+### How to reach me:
+- **Discord:** nneerrr
+
+Feel free to connect with me! I'm always open to discussing code and new ideas.
+
+---
